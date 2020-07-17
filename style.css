@@ -1,0 +1,13 @@
+section, footer {
+  text-align: center; /*расположение элементов по центру*/
+  margin-top: 15px; /*верхний внешний отступ*/
+  margin-bottom: 15px; /*нижний внешний отступ*/
+}
+.layer {
+  padding-left: 450px; /*левый */
+  padding-right: 450px; /*правый отступ*/
+  text-align: center; /*расположение по центру*/
+}
+span {
+  font-size: 13px; /*размер шрифта*/
+}
