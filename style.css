@@ -1,13 +1,20 @@
+* {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
 section, footer {
-  text-align: center; /*расположение элементов по центру*/
-  margin-top: 15px; /*верхний внешний отступ*/
-  margin-bottom: 15px; /*нижний внешний отступ*/
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 15px;
 }
 .layer {
-  padding-left: 450px; /*левый */
-  padding-right: 450px; /*правый отступ*/
-  text-align: center; /*расположение по центру*/
+  padding-left: 450px;
+  padding-right: 450px;
+  text-align: center;
+  font-family: 'Lora', serif;
 }
 span {
-  font-size: 13px; /*размер шрифта*/
+  font-size: 13px;
+}
+i {
+  font-family: 'Lora', serif;
 }
